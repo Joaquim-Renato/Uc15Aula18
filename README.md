@@ -16,10 +16,13 @@ A função `calc()` é uma ferramenta poderosa no CSS que permite realizar cálc
 }
 ```
 --- 
+### Código HTML
+
 ```html
 <!-- Definição de um contêiner simples -->
 <div class="container"></div>
 ```
+### Código CSS
 ```css
 /* Estilo aplicado ao contêiner */
 .container {
@@ -68,3 +71,4 @@ body {
     background-color: blueviolet; /* Cor de fundo do banner */
 }
 ```
+---
